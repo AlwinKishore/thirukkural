@@ -32,3 +32,32 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/thirukkural.git
+2. Navigate to the project directory:
+
+```bash
+- cd thirukkural
+
+3. Install dependencies:
+
+```bash
+- npm install
+
+4. Start the development server:
+
+```bash
+- npm start
+
+Open your browser and visit #http://localhost:3000 to view the app.
+
+## Usage
+- Browse Thirukkural couplets by selecting an adhigaram from the dropdown menu.
+- Use the search bar to find specific couplets by Kural number or keyword.
+- Click on a couplet to view its translation and explanation.
+- Contributing
+- Contributions to improve and enhance this project are welcome! If you find any issues or have ideas for new features, please open an issue or submit a pull request. For major changes, please open an issue first to discuss your ideas.
+
+## License
+- This project is licensed under the MIT License.
+
+
+Feel free to customize the content based on the specifics of your project, such as adding details about the technologies used, contributors, or any other relevant information.

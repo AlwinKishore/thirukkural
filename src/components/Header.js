@@ -10,8 +10,8 @@ function Header() {
                 </div>
                 <nav>
                     <ul className="nav-list">
-                        <li><a href="thirukkural/">Home </a></li>
-                        <li><a href="thirukkural/about">About</a></li>
+                        <li><a href="/">Home </a></li>
+                        <li><a href="/about">About</a></li>
                     </ul>
                 </nav>
             </div>

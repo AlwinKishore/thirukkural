@@ -25,9 +25,9 @@ function About() {
                 </li>
             </ul>
 
-            <h2>Contact M3</h2>
-            <p>If you have feedback, or suggestions, please feel free to reach out to me. I value your input and are committed to continuously improving our website to better serve our users.
-                <br /><br />Thank you for visiting our Thirukkural learning website. <b>Happy exploring!</b></p>
+            <h2>Contact Me</h2>
+            <p>If you have issues, feedback, or suggestions, please feel free to reach out to me. I value your input and are committed to continuously improving this website to better serve the users.
+                <br /><br />Thank you for visiting this Thirukkural learning website. <b>Happy exploring!</b></p>
             <a className='contacts' href="mailto:alwinkishore00@gmail.com">Mail</a>
             <a className='contacts' href="https://www.linkedin.com/in/alwin-kishore-j-8a2907214/" target='_blank'>Linkedin</a>
 

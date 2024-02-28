@@ -34,17 +34,17 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/thirukkural.git
 2. Navigate to the project directory:
+
    ```bash
    cd thirukkural
-3. Install dependencies:
+4. Install dependencies:
    
   ```bash
   npm install
-
 4. Start the development server:
 
   ```bash
-  npm start
+   npm start
 
 Open your browser and visit http://localhost:3000 to view the app.
 
